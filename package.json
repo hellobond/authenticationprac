@@ -1,0 +1,17 @@
+{
+  "name": "example-1",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Brett",
+  "license": "ISC",
+  "dependencies": {
+    "basic": "^2.0.2",
+    "blipp": "^2.3.0",
+    "hapi": "^11.1.4",
+    "hapi-auth-basic": "^4.2.0"
+  }
+}
